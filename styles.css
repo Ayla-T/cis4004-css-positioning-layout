@@ -57,3 +57,16 @@ main{
     padding: 1rem;
 }
 
+#thanks{
+    position: fixed;
+    left: 93%;
+    top: 94%;
+    transform: translate(-50%, -50%);
+    background-color: #f8fd91;
+    padding: 1rem;
+    border-radius: 8px;
+    z-index: 100;
+    text-align: center;
+    width: 150px;
+}
+
